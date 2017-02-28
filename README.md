@@ -1,2 +1,2 @@
 # dhncem.github.io
-#Just a word for designing and buildig my site
+#Just a project for designing and buildig my site

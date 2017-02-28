@@ -1,0 +1,70 @@
+
+body{
+	font-family: 'Droid Sans', 'Helvetica', 'sans';
+  	font-size: 12pt;
+}
+
+#menulist
+{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+  	margin: 2ex 2em;
+  	color: #6F6F6F;
+}
+
+#menulist li{
+    float: left;
+}
+
+#menulist li a
+{
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#menulist li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+#listoflisttitles
+{
+	list-style-type:none;
+	text-align:center;
+}
+
+
+#listoflisttitles li
+{
+ 	display:inline;
+ 	font-weight:bold;
+ 	font-size:24px;
+ 	padding:10px;
+}
+
+#listoflisttitles li a
+{
+	text-decoration:none;
+}
+
+#all_of_the_lists_subscribed_or_member_of
+{
+	text-align:center;
+	list-style-type:none;
+}
+
+#all_of_the_lists_subscribed_or_member_of li
+
+{
+	margin:10px 0;
+}
